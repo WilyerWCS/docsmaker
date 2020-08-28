@@ -1,4 +1,4 @@
-# hexo-theme-doc-seed
+# wilyer-wcs-learning
 
 This project is a skeleton for a documentation website using [Hexo](https://hexo.io) and [hexo-theme-doc](https://github.com/zalando-incubator/hexo-theme-doc).   
 You can use it to quickly bootstrap your documentation website.
