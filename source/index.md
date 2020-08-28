@@ -1,14 +1,10 @@
-title: hexo-theme-doc-seed
+title: Welcome to WilyerWCS
 ---
 
-# hexo-theme-doc-seed
+# Wilyer Learning Guide
 
-This project is a skeleton for a documentation website using [Hexo](https://hexo.io) and [hexo-theme-doc](https://github.com/zalando-incubator/hexo-theme-doc).   
-You can use it to quickly bootstrap your documentation website.
 
-The seed contains the required structure and files to use Hexo and the theme, plus dummy content to show the usage of the main features of the theme.
-
-## Getting Started
+## Getting Started with Template Development
 
 To get started have a look first to the [requirements](https://zalando-incubator.github.io/hexo-theme-doc/get-started.html#Requirements), then install `hexo-cli` with:
 

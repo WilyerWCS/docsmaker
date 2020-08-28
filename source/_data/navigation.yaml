@@ -1,32 +1,25 @@
 {
   "logo": {
-    "text": "Hexo Doc Theme Seed",
+    "text": "Wilyer Learning Docs",
     "type": "link",
     "path": "index.html"
   },
   "main": [
-    {
-      "text": "SWAGGER",
+     {
+      "text": "Web Tech 101",
       "type": "label"
     },
     {
-      "text": "UI",
+      "text": "Web Development 101",
       "type": "link",
-      "path": "swagger/ui.html"
+      "path": "webdev101.html"
     },
     {
-      "text": "To HTML",
+      "text": "Instagram API Project",
       "type": "link",
-      "path": "swagger/to-html.html"
+      "path": "insta-project.html"
+
     },
-    {
-      "text": "SUPPORT AND FEEDBACK",
-      "type": "label"
-    },
-    {
-      "text": "Raise an Issue on Github",
-      "type": "link",
-      "path": "https://github.bus.zalan.do/stargate/hexo-stargate-doc-theme-seed/issues/new"
-    }
+   
   ]
 }
