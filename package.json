@@ -1,9 +1,14 @@
 {
   "name": "hexo-theme-doc-seed",
   "version": "0.1.0",
+
+  "scripts": {
+    "build": "hexo generate"
+  },
   "hexo": {
     "version": "3.9.0"
   },
+
   "dependencies": {
     "hexo": "^3.3.8",
     "hexo-cli": "^1.0.3",
