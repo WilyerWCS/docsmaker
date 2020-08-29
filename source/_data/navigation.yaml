@@ -2,7 +2,7 @@
   "logo": {
     "text": "Wilyer Learning Docs",
     "type": "link",
-    "path": "index.html"
+    "path": ""
   },
   "main": [
   
@@ -13,7 +13,7 @@
     {
       "text": "Instagram API Project",
       "type": "link",
-      "path": "insta/"
+      "path": "insta/index.html"
 
     },
     ]
@@ -27,7 +27,7 @@
    {
       "text": "Web Development 101",
       "type": "link",
-      "path": "webdev/"
+      "path": "webdev/index.html"
     }
     ]
     }
