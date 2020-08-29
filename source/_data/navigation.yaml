@@ -13,7 +13,7 @@
     {
       "text": "Instagram API Project",
       "type": "link",
-      "path": "insta/insta-project.html"
+      "path": "insta/"
 
     },
     ]
@@ -27,7 +27,7 @@
    {
       "text": "Web Development 101",
       "type": "link",
-      "path": "webdev/webdev101.html"
+      "path": "webdev/"
     }
     ]
     }
